@@ -2,6 +2,10 @@
 
 [![Build Status](https://secure.travis-ci.org/felixge/node-formidable.png?branch=master)](http://travis-ci.org/felixge/node-formidable)
 
+## Fork
+
+This fork handles files submitted with a name like "name[]" as arrays, the same way PHP would do it.
+
 ## Purpose
 
 A node.js module for parsing form data, especially file uploads.
